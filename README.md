@@ -245,24 +245,19 @@ Users can enter a customer review and obtain a predicted sentiment.
 
 ### Application Screenshots
 
-#### 1. Application Interface
+### Streamlit Application Interface
+![Application Interface](screenshots/app-interface.png)
 
-![Streamlit Application Interface](screenshots/app-interface.png)
+### Positive Sentiment Prediction
+![Positive Prediction](screenshots/positive-prediction.png)
 
-#### 2. Positive Review Prediction
-
-![Positive Sentiment Prediction](screenshots/positive-prediction.png)
-
-#### 3. Positive Prediction Confidence
-
+### Positive Prediction Confidence
 ![Positive Prediction Confidence](screenshots/positive-prediction-confidence.png)
 
-#### 4. Negative Review Prediction
+### Negative Sentiment Prediction
+![Negative Prediction](screenshots/negative-prediction.png)
 
-![Negative Sentiment Prediction](screenshots/negative-prediction.png)
-
-#### 5. Negative Prediction Confidence
-
+### Negative Prediction Confidence
 ![Negative Prediction Confidence](screenshots/negative-prediction-confidence.png)
 
 ## Repository Structure
