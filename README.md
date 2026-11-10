@@ -196,10 +196,14 @@ Its full test-set results were:
 | Metric | Score |
 |---|---:|
 | Accuracy | 92.88% |
-| Precision | 94.02% |
-| Recall | 97.05% |
-| F1-score | 95.51% |
-| ROC-AUC | 0.9675 |
+| Positive-class Precision | 94.02% |
+| Positive-class Recall | 97.05% |
+| Positive-class F1-score | 95.51% |
+| Negative-class Precision | 88.14% |
+| Negative-class Recall | 78.05% |
+| Negative-class F1-score | 82.79% |
+| Macro F1-score | 89.15% |
+| ROC-AUC | 96.75% |
 
 The bigram representation performed better than the unigram representation on the reported full test set. Including two-word combinations allows the model to use short phrases in addition to individual words when making predictions.
 
